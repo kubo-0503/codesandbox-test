@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["vall","console","log","val2"],"mappings":"AAAA,IAAIA,IAAI,GAAG,IAAX;AACAC,OAAO,CAACC,GAAR,CAAYF,IAAZ;AAEA,IAAIG,IAAI,GAAG,SAAX","file":"src.a2b27638.js","sourceRoot":"..","sourcesContent":["var vall = \"変数\";\nconsole.log(vall);\n\nlet val2 = \"hennsuu\";\n"]}
